@@ -23,3 +23,5 @@ ENV/
 # Dependency directories
 .venv/
 pip-wheel-metadata/
+
+*.db
