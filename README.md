@@ -66,3 +66,5 @@ Por fim, este projeto é uma demonstração do compromisso em aplicar os conheci
 ```bash
   python main.py
 ```
+
+- Após a execução bem-sucedida do comando acima, aguarde alguns segundos enquanto a aplicação inicia. Ela irá automaticamente abrir uma aba no seu navegador padrão.
