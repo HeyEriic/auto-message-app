@@ -16,6 +16,9 @@ Para solucionar esse problema, desenvolvi esta aplicação Flask que automatiza 
 
 Essa solução oferece uma abordagem mais eficiente e confiável para a ONG alcançar seus contatos de forma rápida e eficaz, economizando tempo e minimizando erros. Além disso, fornece uma maneira de rastrear e gerenciar o status das mensagens enviadas, facilitando o acompanhamento e a comunicação com a comunidade.
 
+## Requisitos
+- Python 3.6 ou superior.
+
 ## Funcionalidades
 
 - Carregar contatos a partir de um arquivo Excel.
